@@ -1,6 +1,6 @@
 ## Welcome to Michael's GitHub Page
 
-I am a full-time employee and student looking to make a career change to a field that better aligns with my interests, and talents. I have developed a passion for programming and the process behind making and improving the software used daily throughout the world. I want to put my passion and abilities to work making the next generation of software as amazing as I know it can be.
+I am a previous employee of Energizer Manufacturing and full-time student looking to find my calling and a place to grow and achieve my goals. I have developed a passion for programming and the process behind making and improving the software and apps used daily throughout the world. I want to put my passion and abilities to work making the next generation of software and apps as amazing as I know it can be.
 
 ## Key Skills
 * JavaScript
@@ -21,9 +21,9 @@ Student at Guildford Technical Community College
 •	C# .Net Framework: Basic knowledge creating console applications, windows forms, and GUI’s.
 •	HTML5: formed a fundamental knowledge of html programming through several projects where we wrote, modified, and tested web browser games.
 •	JavaScript: Used the java script language and tools to better organize and write web browser games for easier testing and more efficient runtimes.
-•	Unity: Currently working through classes and building projects in Unity with C# scripting and prefabs for use in future gaming projects.
+•	Unity: Currently developing 2D and 3D games to build my fundamental knowledge and reach my goal of becoming an established developer.
 
-2007-Present
+2007-2020
 Mix Operator • Components • Energizer Manufacturing
 •	This key area of the plant allowed me to work closely with HMI's and Industrial Blenders. 
 •	I am responsible for collecting and analyzing quality data: including raw material usage, up to date material quality performance and specifications, and maintaining records in excel on our internal server network. 
